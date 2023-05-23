@@ -1,0 +1,101 @@
+/* ✅✅✅ 🛑🛑🛑🛑🛑🛑☝🏾DEFAULT☝🏾🛑🛑🛑🛑🛑🛑 */
+h1,
+h2,
+h3,
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul,
+li {
+
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+}
+
+:root {}
+
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.section {
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
+
+.container {
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* ❌❌❌ 🛑🛑🛑☝🏾DEFAULT☝🏾🛑🛑🛑 */
+
+
+/* ✅✅✅ ⭕️⭕️⭕️⭕️ NAVIGATION ⭕️⭕️⭕️⭕️ */
+/* ❌❌❌ ⭕️⭕️ NAVIGATION ⭕️⭕️ */
+
+
+/* ✅✅✅ 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ HERO 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ */
+/* ❌❌❌ 🦸‍♂️🦸‍♂️🦸‍♂️ HERO 🦸‍♂️🦸‍♂️🦸‍♂️ */
+
+
+/* ✅✅✅ 🪢🪢🪢🪢🪢🪢 FEATURE 🪢🪢🪢🪢🪢🪢 */
+
+/* ❌❌❌ 🪢🪢🪢 FEATURE 🪢🪢🪢 */
+
+
+/* ✅✅✅ 💥💥💥💥💥💥💥💥💥💥💥💥💥💥 WORKS 💥💥💥💥💥💥💥💥💥💥💥💥💥💥 */
+/* ❌❌❌ 💥💥💥 WORKS 💥💥💥 */
+
+
+/* ✅✅✅ 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️ CREW 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️ */
+
+/* ❌❌❌ 🧝‍♂️🧝‍♂️🧝‍♂️ CREW 🧝‍♂️🧝‍♂️🧝‍♂️ */
+
+
+/* ✅✅✅ 🔥🔥🔥🔥🔥🔥 FOOTER 🔥🔥🔥🔥🔥🔥 */
+/* ❌❌❌ 🔥🔥🔥 FOOTER 🔥🔥🔥 */
+
+
+/* ✅✅✅ 🥩🥩🥩🥩🥩🥩PORTFOLIO 🥩🥩🥩🥩🥩🥩 */
+
+/* ❌❌❌ 🥩🥩🥩 PORTFOLIO 🥩🥩🥩 */
+
+
+/** ✅✅✅ 🍔🍔🍔🍔🍔🍔 ICON 🍔🍔🍔🍔🍔🍔 **/
+/** ❌❌❌ 🍔🍔🍔 ICON 🍔🍔🍔 **/
+
+
+/* ✅✅✅ 🎹🎹🎹🎹🎹🎹 CUSTOMERS 🎹🎹🎹🎹🎹🎹 */
+/* ❌❌❌ 🎹🎹🎹 CUSTOMERS 🎹🎹🎹 */
+
+
+/* ✅✅✅ 🌎 🌍 🌏 🌎 🌍 🌏  OVERLAY  🌎 🌍 🌏 🌎 🌍 🌏 */
+
+/* ❌❌❌ 🌎 🌍 🌏 OVERLAY 🌎 🌍 🌏 */
+
+
+/* ✅✅✅ 🏙🏙🏙🏙🏙🏙 MODAL WINDOWS 🏙🏙🏙🏙🏙🏙 */
+/* ✅✅🐣🐣🐣🐣 Index 🐣🐣🐣🐣 */
+/* ❌❌ 🐣🐣 Index 🐣🐣*/
