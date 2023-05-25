@@ -7,6 +7,16 @@ p {
     margin-bottom: 0;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 42px;
+    line-height: 1.16;
+    letter-spacing: 0.05em;
+}
+
 ul,
 li {
 
@@ -19,7 +29,14 @@ img {
     display: block;
 }
 
-:root {}
+button {
+    cursor: pointer
+}
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+}
 
 .list {
     list-style-type: none;
@@ -37,11 +54,15 @@ img {
 }
 
 .section {
+
+    background: #000;
     padding-bottom: 120px;
     padding-top: 120px;
 }
 
 .container {
+
+    background: #000;
     width: 1158px;
     margin-left: auto;
     margin-right: auto;
@@ -49,10 +70,65 @@ img {
     padding-right: 15px;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.86;
+    color: #555555;
+}
+
 /* ❌❌❌ 🛑🛑🛑☝🏾DEFAULT☝🏾🛑🛑🛑 */
 
 
 /* ✅✅✅ ⭕️⭕️⭕️⭕️ NAVIGATION ⭕️⭕️⭕️⭕️ */
+.menu {}
+
+.menu-link {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    color: var(--white)
+}
+
+.menu-list:not(:last-child) {
+    margin-right: 30px;
+}
+
+.address-link {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--white)
+}
+
+.address-head {
+    margin-left: auto;
+    margin-right: 43px;
+}
+
+.online-booking {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--white);
+    background: transparent;
+    border: 1px solid #FF6C00;
+    border-radius: 25px;
+}
+
 /* ❌❌❌ ⭕️⭕️ NAVIGATION ⭕️⭕️ */
 
 
